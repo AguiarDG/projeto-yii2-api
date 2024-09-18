@@ -65,6 +65,7 @@ composer install
 ```bash
 php yii migrate
 ```
+Obs.: Caso precise, disponibilizei um dump do banco de dados na raiz do projeto.
 
 5. Inicie o servidor de desenvolvimento:
 ```bash
